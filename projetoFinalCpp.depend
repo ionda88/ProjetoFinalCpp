@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1637886014 source:c:\desenvolvimento\projetos\cesumar\projetofinalcpp\aluno.cpp
+	<iostream>
+	<locale.h>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<cstdlib>
+	"header.h"
+	<iostream>
+
+1637885037 source:c:\desenvolvimento\projetos\cesumar\projetofinalcpp\main.cpp
+	"header.h"
+	<iostream>
+
+1637885571 c:\desenvolvimento\projetos\cesumar\projetofinalcpp\header.h
+	<string>
+	<iostream>
+
